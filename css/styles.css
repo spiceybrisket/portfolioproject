@@ -8,7 +8,7 @@
 body {
   background-color: #292929;
   font-family: 'Raleway', sans-serif;
-  color: #FFF;
+  color: #fff;
 }
 
 h1,
@@ -31,7 +31,7 @@ h3.red {
 }
 
 h3.white {
-  color: #FFF;
+  color: #fff;
 }
 
 h3.black {
@@ -50,7 +50,7 @@ a.white:hover,
 a.white:visited,
 a.white:link,
 a.white:active {
-  color: #FFF;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -144,7 +144,7 @@ p {
 /* customising bootstrap navbar */
 .navbar-default {
   background-color: #c94148;
-  color: #FFF;
+  color: #fff;
   border: transparent;
   margin-bottom: 0;
 }
@@ -153,16 +153,13 @@ p {
   text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #FFF;
+  color: #fff;
 }
 
 .navbar-toggle {
   position: relative;
-  float: right;
-  margin-right: 15px;
   padding: 9px 10px;
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 8px 15px 8px ;
   background-image: none;
   border: 1px solid transparent;
   border-radius: 4px;
@@ -187,7 +184,7 @@ p {
   padding-top: 10px;
   padding-bottom: 5px;
   background-color: #c94148;
-  color: #FFF;
+  color: #fff;
 }
 
 .sample-project {
@@ -196,11 +193,11 @@ p {
 
 .project1 {
   background-color: #c94148;
-  color: #FFF;
+  color: #fff;
 }
 
 .project3 {
-  background-color: #FFF;
+  background-color: #fff;
   color: #292929;
 }
 
@@ -210,7 +207,7 @@ p {
 
 footer {
   background-color: #c94148;
-  color: #FFF;
+  color: #fff;
   margin-bottom: 0;
 }
 
